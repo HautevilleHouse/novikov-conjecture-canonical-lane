@@ -1,6 +1,6 @@
 # EG4 Public Note (Rigidity and Endpoint Transfer)
 
-Mature wording: `bad-limit exclusion / endpoint transfer`.
+Canonical wording: `bad-limit exclusion / endpoint transfer`.
 
 In-paper anchor: `paper/NOVIKOV_CONJECTURE_PREPRINT.md` (`NOV_G4`, `NOV_G5`).
 
@@ -42,5 +42,5 @@ If bad limits are excluded and the endpoint lock is active, then `NOV_G4` and `N
 - rigidity artifact key: `rho_rigidity`
 - transfer gate: `NOV_G5`
 - transfer artifact key: `signature_transfer`
-- mature equivalent: `bad-limit exclusion / endpoint identification`
+- canonical equivalent: `bad-limit exclusion / endpoint identification`
 - audit surface: `notes/IDENTIFICATION_BRIDGE.md` and `repro/certificate_runtime.json`
